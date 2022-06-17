@@ -1,0 +1,15 @@
+C:\Users\suportetm\Desktop\Nova pasta\CSharp\WhileeDoWhile\bin\Debug\net6.0\WhileeDoWhile.exe
+C:\Users\suportetm\Desktop\Nova pasta\CSharp\WhileeDoWhile\bin\Debug\net6.0\WhileeDoWhile.deps.json
+C:\Users\suportetm\Desktop\Nova pasta\CSharp\WhileeDoWhile\bin\Debug\net6.0\WhileeDoWhile.runtimeconfig.json
+C:\Users\suportetm\Desktop\Nova pasta\CSharp\WhileeDoWhile\bin\Debug\net6.0\WhileeDoWhile.dll
+C:\Users\suportetm\Desktop\Nova pasta\CSharp\WhileeDoWhile\bin\Debug\net6.0\WhileeDoWhile.pdb
+C:\Users\suportetm\Desktop\Nova pasta\CSharp\WhileeDoWhile\obj\Debug\net6.0\WhileeDoWhile.csproj.AssemblyReference.cache
+C:\Users\suportetm\Desktop\Nova pasta\CSharp\WhileeDoWhile\obj\Debug\net6.0\WhileeDoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suportetm\Desktop\Nova pasta\CSharp\WhileeDoWhile\obj\Debug\net6.0\WhileeDoWhile.AssemblyInfoInputs.cache
+C:\Users\suportetm\Desktop\Nova pasta\CSharp\WhileeDoWhile\obj\Debug\net6.0\WhileeDoWhile.AssemblyInfo.cs
+C:\Users\suportetm\Desktop\Nova pasta\CSharp\WhileeDoWhile\obj\Debug\net6.0\WhileeDoWhile.csproj.CoreCompileInputs.cache
+C:\Users\suportetm\Desktop\Nova pasta\CSharp\WhileeDoWhile\obj\Debug\net6.0\WhileeDoWhile.dll
+C:\Users\suportetm\Desktop\Nova pasta\CSharp\WhileeDoWhile\obj\Debug\net6.0\refint\WhileeDoWhile.dll
+C:\Users\suportetm\Desktop\Nova pasta\CSharp\WhileeDoWhile\obj\Debug\net6.0\WhileeDoWhile.pdb
+C:\Users\suportetm\Desktop\Nova pasta\CSharp\WhileeDoWhile\obj\Debug\net6.0\WhileeDoWhile.genruntimeconfig.cache
+C:\Users\suportetm\Desktop\Nova pasta\CSharp\WhileeDoWhile\obj\Debug\net6.0\ref\WhileeDoWhile.dll

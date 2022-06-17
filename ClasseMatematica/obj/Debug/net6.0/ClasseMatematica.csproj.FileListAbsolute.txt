@@ -1,0 +1,15 @@
+C:\Users\suportetm\Desktop\Nova pasta\CSharp\ClasseMatematica\bin\Debug\net6.0\ClasseMatematica.exe
+C:\Users\suportetm\Desktop\Nova pasta\CSharp\ClasseMatematica\bin\Debug\net6.0\ClasseMatematica.deps.json
+C:\Users\suportetm\Desktop\Nova pasta\CSharp\ClasseMatematica\bin\Debug\net6.0\ClasseMatematica.runtimeconfig.json
+C:\Users\suportetm\Desktop\Nova pasta\CSharp\ClasseMatematica\bin\Debug\net6.0\ClasseMatematica.dll
+C:\Users\suportetm\Desktop\Nova pasta\CSharp\ClasseMatematica\bin\Debug\net6.0\ClasseMatematica.pdb
+C:\Users\suportetm\Desktop\Nova pasta\CSharp\ClasseMatematica\obj\Debug\net6.0\ClasseMatematica.csproj.AssemblyReference.cache
+C:\Users\suportetm\Desktop\Nova pasta\CSharp\ClasseMatematica\obj\Debug\net6.0\ClasseMatematica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suportetm\Desktop\Nova pasta\CSharp\ClasseMatematica\obj\Debug\net6.0\ClasseMatematica.AssemblyInfoInputs.cache
+C:\Users\suportetm\Desktop\Nova pasta\CSharp\ClasseMatematica\obj\Debug\net6.0\ClasseMatematica.AssemblyInfo.cs
+C:\Users\suportetm\Desktop\Nova pasta\CSharp\ClasseMatematica\obj\Debug\net6.0\ClasseMatematica.csproj.CoreCompileInputs.cache
+C:\Users\suportetm\Desktop\Nova pasta\CSharp\ClasseMatematica\obj\Debug\net6.0\ClasseMatematica.dll
+C:\Users\suportetm\Desktop\Nova pasta\CSharp\ClasseMatematica\obj\Debug\net6.0\refint\ClasseMatematica.dll
+C:\Users\suportetm\Desktop\Nova pasta\CSharp\ClasseMatematica\obj\Debug\net6.0\ClasseMatematica.pdb
+C:\Users\suportetm\Desktop\Nova pasta\CSharp\ClasseMatematica\obj\Debug\net6.0\ClasseMatematica.genruntimeconfig.cache
+C:\Users\suportetm\Desktop\Nova pasta\CSharp\ClasseMatematica\obj\Debug\net6.0\ref\ClasseMatematica.dll
